@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: aea07dd84c33f8e4bb136706a1e3d9ef
+timeCreated: 1508037137
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0899f9d3309b0018ed454ba96e1fe90c
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.80477, y: 1.3338596, z: 2.1071784}
+      lookAt: {x: -16.187649, y: -9.171416, z: -9.343063}
+      up: {x: -0.36662424, y: 0.90373194, z: -0.22103219}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: closed door
+    100002: door
+    100004: door panel#1
+    100006: front part#1
+    100008: Group 1
+    100010: handle#2
+    100012: hinge_part
+    100014: hinge_part 1
+    100016: hinge_part#1
+    100018: hinge_part#1 1
+    100020: rear part
+    100022: wall part#1
+    100024: //RootNode
+    100026: Back
+    100028: Door
+    100030: DoorClosed
+    100032: Doorframe
+    100034: Front
+    100036: Handle
+    100038: HingeBot1
+    100040: HingeBot2
+    100042: HingeTop1
+    100044: HingeTop2
+    100046: Wall
+    100048: WoodPlane
+    400000: closed door
+    400002: door
+    400004: door panel#1
+    400006: front part#1
+    400008: Group 1
+    400010: handle#2
+    400012: hinge_part
+    400014: hinge_part 1
+    400016: hinge_part#1
+    400018: hinge_part#1 1
+    400020: rear part
+    400022: wall part#1
+    400024: //RootNode
+    400026: Back
+    400028: Door
+    400030: DoorClosed
+    400032: Doorframe
+    400034: Front
+    400036: Handle
+    400038: HingeBot1
+    400040: HingeBot2
+    400042: HingeTop1
+    400044: HingeTop2
+    400046: Wall
+    400048: WoodPlane
+    2300000: door panel#1
+    2300002: front part#1
+    2300004: Group 1
+    2300006: handle#2
+    2300008: hinge_part
+    2300010: hinge_part 1
+    2300012: hinge_part#1
+    2300014: hinge_part#1 1
+    2300016: rear part
+    2300018: Back
+    2300020: Front
+    2300022: Handle
+    2300024: HingeBot1
+    2300026: HingeBot2
+    2300028: HingeTop1
+    2300030: HingeTop2
+    2300032: Wall
+    2300034: WoodPlane
+    3300000: door panel#1
+    3300002: front part#1
+    3300004: Group 1
+    3300006: handle#2
+    3300008: hinge_part
+    3300010: hinge_part 1
+    3300012: hinge_part#1
+    3300014: hinge_part#1 1
+    3300016: rear part
+    3300018: Back
+    3300020: Front
+    3300022: Handle
+    3300024: HingeBot1
+    3300026: HingeBot2
+    3300028: HingeTop1
+    3300030: HingeTop2
+    3300032: Wall
+    3300034: WoodPlane
+    4300000: Mesh Group 1
+    4300002: Mesh rear part
+    4300004: Mesh front part#1
+    4300006: Mesh hinge_part
+    4300008: Mesh handle#2
+    4300010: Mesh door panel#1
+    4300012: Mesh hinge_part#1
+    4300014: Mesh Wall
+    4300016: Mesh Back
+    4300018: Mesh Front
+    4300020: Mesh HingeBot2
+    4300022: Mesh Handle
+    4300024: Mesh WoodPlane
+    4300026: Mesh HingeTop2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

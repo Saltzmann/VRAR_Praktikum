@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: d9714a85c3808c04a872c800e44469ec
+timeCreated: 1508118372
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1f13b4be4a514050b2c6d5f77feea423
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.22816351, y: 0.65389985, z: -0.38819957}
+      lookAt: {x: -0.05696031, y: 0.28644878, z: -0.1347932}
+      up: {x: 0.43028912, y: 0.6397027, z: 0.63689226}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ConnectionMid1
+    100002: ConnectionMid2
+    100004: ConnectionMid3
+    100006: ConnectionMid4
+    100008: ConnectionMid5
+    100010: ConnectionMid6
+    100012: ConnectionMid7
+    100014: ConnectionTop1
+    100016: ConnectionTop2
+    100018: ConnectionTop4
+    100020: ConnectionTop5
+    100022: ConnectionTop6
+    100024: ConnectionTop7
+    100026: ConnectionTop7 1
+    100028: ConnectionTop7 2
+    100030: ConnectionTopv3
+    100032: //RootNode
+    100034: RadiatorSectionBody1
+    100036: RadiatorSectionBody2
+    100038: RadiatorSectionBody3
+    100040: RadiatorSectionBody4
+    100042: RadiatorSectionBody5
+    100044: RadiatorSectionBody6
+    100046: RadiatorSectionBody7
+    100048: RadiatorSectionBody8
+    100050: RadiatorUpperPipe copy 001
+    100052: RadiatorUpperPipe copy 002
+    100054: RadiatorUpperPipe copy 003
+    100056: RadiatorUpperPipe copy 004
+    100058: RadiatorUpperPipe copy 005
+    100060: Stand1
+    100062: Stand2
+    400000: ConnectionMid1
+    400002: ConnectionMid2
+    400004: ConnectionMid3
+    400006: ConnectionMid4
+    400008: ConnectionMid5
+    400010: ConnectionMid6
+    400012: ConnectionMid7
+    400014: ConnectionTop1
+    400016: ConnectionTop2
+    400018: ConnectionTop4
+    400020: ConnectionTop5
+    400022: ConnectionTop6
+    400024: ConnectionTop7
+    400026: ConnectionTop7 1
+    400028: ConnectionTop7 2
+    400030: ConnectionTopv3
+    400032: //RootNode
+    400034: RadiatorSectionBody1
+    400036: RadiatorSectionBody2
+    400038: RadiatorSectionBody3
+    400040: RadiatorSectionBody4
+    400042: RadiatorSectionBody5
+    400044: RadiatorSectionBody6
+    400046: RadiatorSectionBody7
+    400048: RadiatorSectionBody8
+    400050: RadiatorUpperPipe copy 001
+    400052: RadiatorUpperPipe copy 002
+    400054: RadiatorUpperPipe copy 003
+    400056: RadiatorUpperPipe copy 004
+    400058: RadiatorUpperPipe copy 005
+    400060: Stand1
+    400062: Stand2
+    2300000: ConnectionMid1
+    2300002: ConnectionMid2
+    2300004: ConnectionMid3
+    2300006: ConnectionMid4
+    2300008: ConnectionMid5
+    2300010: ConnectionMid6
+    2300012: ConnectionMid7
+    2300014: ConnectionTop1
+    2300016: ConnectionTop2
+    2300018: ConnectionTop4
+    2300020: ConnectionTop5
+    2300022: ConnectionTop6
+    2300024: ConnectionTop7
+    2300026: ConnectionTop7 1
+    2300028: ConnectionTop7 2
+    2300030: ConnectionTopv3
+    2300032: RadiatorSectionBody1
+    2300034: RadiatorSectionBody2
+    2300036: RadiatorSectionBody3
+    2300038: RadiatorSectionBody4
+    2300040: RadiatorSectionBody5
+    2300042: RadiatorSectionBody6
+    2300044: RadiatorSectionBody7
+    2300046: RadiatorSectionBody8
+    2300048: RadiatorUpperPipe copy 001
+    2300050: RadiatorUpperPipe copy 002
+    2300052: RadiatorUpperPipe copy 003
+    2300054: RadiatorUpperPipe copy 004
+    2300056: RadiatorUpperPipe copy 005
+    2300058: Stand1
+    2300060: Stand2
+    3300000: ConnectionMid1
+    3300002: ConnectionMid2
+    3300004: ConnectionMid3
+    3300006: ConnectionMid4
+    3300008: ConnectionMid5
+    3300010: ConnectionMid6
+    3300012: ConnectionMid7
+    3300014: ConnectionTop1
+    3300016: ConnectionTop2
+    3300018: ConnectionTop4
+    3300020: ConnectionTop5
+    3300022: ConnectionTop6
+    3300024: ConnectionTop7
+    3300026: ConnectionTop7 1
+    3300028: ConnectionTop7 2
+    3300030: ConnectionTopv3
+    3300032: RadiatorSectionBody1
+    3300034: RadiatorSectionBody2
+    3300036: RadiatorSectionBody3
+    3300038: RadiatorSectionBody4
+    3300040: RadiatorSectionBody5
+    3300042: RadiatorSectionBody6
+    3300044: RadiatorSectionBody7
+    3300046: RadiatorSectionBody8
+    3300048: RadiatorUpperPipe copy 001
+    3300050: RadiatorUpperPipe copy 002
+    3300052: RadiatorUpperPipe copy 003
+    3300054: RadiatorUpperPipe copy 004
+    3300056: RadiatorUpperPipe copy 005
+    3300058: Stand1
+    3300060: Stand2
+    4300000: Mesh RadiatorSectionBody2
+    4300002: Mesh ConnectionTop2
+    4300004: Mesh ConnectionMid3
+    4300006: Mesh Stand1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

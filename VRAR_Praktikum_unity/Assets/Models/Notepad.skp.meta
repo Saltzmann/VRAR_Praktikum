@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: c9e041fecf55b3542a2500c90c8f6044
+timeCreated: 1508371158
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 6ac1dfdc09f0f5d405831341774b2923
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.7440083, y: 0.106227644, z: 0.10196654}
+      lookAt: {x: -0.9578381, y: -0.22876707, z: -0.35918167}
+      up: {x: -0.18015489, y: 0.98242617, z: -0.04881645}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Paper
+    100004: Ring
+    100006: Ring 1
+    100008: Ring 10
+    100010: Ring 11
+    100012: Ring 12
+    100014: Ring 13
+    100016: Ring 14
+    100018: Ring 15
+    100020: Ring 16
+    100022: Ring 17
+    100024: Ring 18
+    100026: Ring 19
+    100028: Ring 2
+    100030: Ring 20
+    100032: Ring 21
+    100034: Ring 22
+    100036: Ring 23
+    100038: Ring 3
+    100040: Ring 4
+    100042: Ring 5
+    100044: Ring 6
+    100046: Ring 7
+    100048: Ring 8
+    100050: Ring 9
+    400000: //RootNode
+    400002: Paper
+    400004: Ring
+    400006: Ring 1
+    400008: Ring 10
+    400010: Ring 11
+    400012: Ring 12
+    400014: Ring 13
+    400016: Ring 14
+    400018: Ring 15
+    400020: Ring 16
+    400022: Ring 17
+    400024: Ring 18
+    400026: Ring 19
+    400028: Ring 2
+    400030: Ring 20
+    400032: Ring 21
+    400034: Ring 22
+    400036: Ring 23
+    400038: Ring 3
+    400040: Ring 4
+    400042: Ring 5
+    400044: Ring 6
+    400046: Ring 7
+    400048: Ring 8
+    400050: Ring 9
+    2300000: Paper
+    2300002: Ring
+    2300004: Ring 1
+    2300006: Ring 10
+    2300008: Ring 11
+    2300010: Ring 12
+    2300012: Ring 13
+    2300014: Ring 14
+    2300016: Ring 15
+    2300018: Ring 16
+    2300020: Ring 17
+    2300022: Ring 18
+    2300024: Ring 19
+    2300026: Ring 2
+    2300028: Ring 20
+    2300030: Ring 21
+    2300032: Ring 22
+    2300034: Ring 23
+    2300036: Ring 3
+    2300038: Ring 4
+    2300040: Ring 5
+    2300042: Ring 6
+    2300044: Ring 7
+    2300046: Ring 8
+    2300048: Ring 9
+    3300000: Paper
+    3300002: Ring
+    3300004: Ring 1
+    3300006: Ring 10
+    3300008: Ring 11
+    3300010: Ring 12
+    3300012: Ring 13
+    3300014: Ring 14
+    3300016: Ring 15
+    3300018: Ring 16
+    3300020: Ring 17
+    3300022: Ring 18
+    3300024: Ring 19
+    3300026: Ring 2
+    3300028: Ring 20
+    3300030: Ring 21
+    3300032: Ring 22
+    3300034: Ring 23
+    3300036: Ring 3
+    3300038: Ring 4
+    3300040: Ring 5
+    3300042: Ring 6
+    3300044: Ring 7
+    3300046: Ring 8
+    3300048: Ring 9
+    4300000: Mesh Paper
+    4300002: Mesh Ring
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blinds_Cellular_White1
+    second: {fileID: 2100000, guid: c8347bc2c88843c47877a1d2701fd9df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B2
+    second: {fileID: 2100000, guid: 3013801857f819d4188e63dd437f2bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_I2
+    second: {fileID: 2100000, guid: dea8393bb42d83d48b4737c2ff086ae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _CoolGray1_1
+    second: {fileID: 2100000, guid: 17fef81569ac9a344bc4005dc73fc7dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 93021da5599cc144e8cdd6c624cade7e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

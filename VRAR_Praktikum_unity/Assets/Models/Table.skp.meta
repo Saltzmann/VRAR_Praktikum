@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 2a4a16c7110e804438d2466c78d633ea
+timeCreated: 1508095354
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ffbeb0949b66c850324f4816bb3eb2a7
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.035534404, y: 0.59807205, z: -2.0829368}
+      lookAt: {x: 0.26101747, y: -2.551249, z: 5.4188557}
+      up: {x: 0.015279611, y: 0.92215276, z: 0.38652417}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 2
+    100002: Group 4
+    100004: Group 6
+    100006: Group 8
+    100008: school_desk_table
+    100010: //RootNode
+    100012: Chop1
+    100014: Chop2
+    100016: Tablestand
+    100018: Tabletop
+    400000: Group 2
+    400002: Group 4
+    400004: Group 6
+    400006: Group 8
+    400008: school_desk_table
+    400010: //RootNode
+    400012: Chop1
+    400014: Chop2
+    400016: Tablestand
+    400018: Tabletop
+    2300000: Group 2
+    2300002: Group 4
+    2300004: Group 6
+    2300006: Group 8
+    2300008: Chop1
+    2300010: Chop2
+    2300012: Tablestand
+    2300014: Tabletop
+    3300000: Group 2
+    3300002: Group 4
+    3300004: Group 6
+    3300006: Group 8
+    3300008: Chop1
+    3300010: Chop2
+    3300012: Tablestand
+    3300014: Tabletop
+    4300000: Mesh Group 2
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Tablestand
+    4300008: Mesh Tabletop
+    4300010: Mesh Chop1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
