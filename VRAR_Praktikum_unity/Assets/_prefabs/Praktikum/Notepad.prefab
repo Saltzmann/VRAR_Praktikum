@@ -138,9 +138,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4851603864409530}
+  - component: {fileID: 65629529210841116}
   m_Layer: 0
   m_Name: Notepad
-  m_TagString: Untagged
+  m_TagString: Notepad
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -731,9 +732,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1452508821367288}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.1550167, y: 0.65255165, z: 1.4737462}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: 0.14403807, z: -0, w: 0.9895722}
+  m_LocalPosition: {x: -3.642, y: -5.445, z: 5.654}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 4369419927408482}
   - {fileID: 4697564408513692}
@@ -762,7 +763,7 @@ Transform:
   - {fileID: 4092036090965030}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 16.563002, z: 0}
 --- !u!4 &4885277589383964
 Transform:
   m_ObjectHideFlags: 1
@@ -1844,6 +1845,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1930734261236696}
   m_Mesh: {fileID: 4300002, guid: c9e041fecf55b3542a2500c90c8f6044, type: 3}
+--- !u!65 &65629529210841116
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1452508821367288}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.6511954, y: 0.12793016, z: 0.4499209}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &65844045870003694
 BoxCollider:
   m_ObjectHideFlags: 1
